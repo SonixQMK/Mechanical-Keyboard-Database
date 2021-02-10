@@ -41,10 +41,3 @@ A Mechanical Keyboard Database
 | Yuemi/Xiaomi | Yuemi Pro MK02 | STM32F072C8T6       | [Official QMK](https://github.com/qmk/qmk_firmware/) | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) |           |         |          |
 | Redragon     | K552           | VS11K09A-1          | WIP                                                  |                                                              | RGB       | Yes     | No       |
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                                   |                                                              | RGB       | Yes     | No       |
-
-|              |                |                     |                                                      |                                                              |           |         |          |
-|              |                |                     |                                                      |                                                              |           |         |          |
-|              |                |                     |                                                      |                                                              |           |         |          |
-|              |                |                     |                                                      |                                                              |           |         |          |
-|              |                |                     |                                                      |                                                              |           |         |          |
-
