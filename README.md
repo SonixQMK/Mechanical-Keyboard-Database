@@ -6,17 +6,17 @@ A Mechanical Keyboard Database
 
 ## 60% Layout
 
-| Brand  | Model | MCU             | QMK  | Link                                                         | Backlight | Hotswap | Wireless |
-| ------ | ----- | --------------- | ---- | ------------------------------------------------------------ | --------- | ------- | -------- |
-| womier | K66   | Sonix SN32F268  | WIP  |                                                              | RGB       | all     | No       |
-| Kemove | dk63  | Sonix SN32F248B | WIP  | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) | RGB       | all     | Yes      |
-|        |       |                 |      |                                                              |           |         |          |
-|        |       |                 |      |                                                              |           |         |          |
-|        |       |                 |      |                                                              |           |         |          |
-|        |       |                 |      |                                                              |           |         |          |
-|        |       |                 |      |                                                              |           |         |          |
-|        |       |                 |      |                                                              |           |         |          |
-|        |       |                 |      |                                                              |           |         |          |
+| Brand   | Model | MCU                    | QMK  | Link                                                         | Backlight | Hotswap | Wireless  |
+| ------- | ----- | ---------------------- | ---- | ------------------------------------------------------------ | --------- | ------- | --------- |
+| womier  | K66   | Sonix SN32F268         | WIP  |                                                              | RGB       | all     | No        |
+| Kemove  | dk63  | Sonix SN32F248B        | WIP  | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) | RGB       | all     | Yes       |
+| KeyDous | NJ68  | M103CB(Nuvoton Nuc123) | No   |                                                              | RGB       | all     | Bluetooth |
+|         |       |                        |      |                                                              |           |         |           |
+|         |       |                        |      |                                                              |           |         |           |
+|         |       |                        |      |                                                              |           |         |           |
+|         |       |                        |      |                                                              |           |         |           |
+|         |       |                        |      |                                                              |           |         |           |
+|         |       |                        |      |                                                              |           |         |           |
 
 ## 75% Layout
 
