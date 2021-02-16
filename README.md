@@ -42,7 +42,7 @@ A Mechanical Keyboard Database
 | Redragon     | K552           | VS11K09A-1          | WIP                                                  |                                                              | RGB       | Yes     | No       |
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                                   |                                                              | RGB       | Yes     | No       |
 | iKBC | F87 RGB | HT32F1854 | No | | RGB | No | No |
-|  |  |  |  | |  |  |  |
+| GANSS | GS87D | HFD 48KP500 | No | | White | No | Bluetooth 3.0 |
 
 ## 96% Layout
 
