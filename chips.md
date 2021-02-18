@@ -22,4 +22,4 @@
 | eVision | VS11K16A   | SN32F268F    | LQFP 48 pins |
 | eVision | VS11K17A   | SN32F268F    | LQFP 48 pins |
 | eVision | VS11K20A   | SN32F268F    | LQFP 48 pins |
-
+| HFD   | HFD2201KBA   | SN32F248B    | LQFP 64 pins |
