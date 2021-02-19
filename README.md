@@ -39,7 +39,8 @@ A Mechanical Keyboard Database
 | 1stPlayer    | MK8            | Nuvoton NUC121SC2AE | WIP                                                  |                                                              | RGB       | 13key   | No       |
 | 1stPlayer    | DK5.0          | BYK816              | No                                                   |                                                              | RGB       | No      | No       |
 | Yuemi/Xiaomi | Yuemi Pro MK02 | STM32F072C8T6       | [Official QMK](https://github.com/qmk/qmk_firmware/) | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) | White | No | No |
-| Redragon     | K552           | VS11K09A-1          | WIP                                                  |                                                              | RGB       | Yes     | No       |
+| Redragon     | K552-1         | VS11K09A            | No                                                   |                                                              | RGB       | Yes     | No       |
+| Redragon     | K552-2         | VS11K09A-1          | WIP                                                  |                                                              | RGB       | Yes     | No       |
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                                   |                                                              | RGB       | Yes     | No       |
 | iKBC | F87 RGB | HT32F1854 | No | | RGB | No | No |
 | GANSS | GS87D | HFD 48KP500 | No | | White | No | Bluetooth 3.0 |
