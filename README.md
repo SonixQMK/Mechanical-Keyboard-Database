@@ -46,15 +46,15 @@ A Mechanical Keyboard Database
 
 ## 96% Layout
 
-| Brand | Model | MCU  | QMK  | Link | Backlight | Hotswap | Wireless |
-| ----- | ----- | ---- | ---- | ---- | --------- | ------- | -------- |
-|       | FL980 |      |      |      | RGB       | All     |          |
-|       |       |      |      |      |           |         |          |
-|       |       |      |      |      |           |         |          |
-|       |       |      |      |      |           |         |          |
-|       |       |      |      |      |           |         |          |
-|       |       |      |      |      |           |         |          |
-|       |       |      |      |      |           |         |          |
+| Brand           | Model | MCU  | QMK  | Link | Backlight | Hotswap | Wireless |
+| --------------- | ----- | ---- | ---- | ---- | --------- | ------- | -------- |
+| FL-esports/腹灵 | FL980 | ?    | No   |      | RGB       | All     | BT&2.4G  |
+|                 |       |      |      |      |           |         |          |
+|                 |       |      |      |      |           |         |          |
+|                 |       |      |      |      |           |         |          |
+|                 |       |      |      |      |           |         |          |
+|                 |       |      |      |      |           |         |          |
+|                 |       |      |      |      |           |         |          |
 
 ## Full Layout 104keys
 
