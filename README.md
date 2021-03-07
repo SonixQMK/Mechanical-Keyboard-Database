@@ -8,7 +8,7 @@ A Mechanical Keyboard Database
 
 | Brand    | Model | MCU                    | QMK  | Link                                                         | Backlight | Hotswap | Wireless     | KLE                                                          |
 | -------- | ----- | ---------------------- | ---- | ------------------------------------------------------------ | --------- | ------- | ------------ | ------------------------------------------------------------ |
-| womier   | K66   | Sonix SN32F268         | WIP  |                                                              | RGB       | all     | No           | [Here](http://www.keyboard-layout-editor.com/#/gists/8ddceb2e7bdef2bfa16d6c0825257358) |
+| Womier   | K66   | Sonix SN32F268         | WIP  |                                                              | RGB       | all     | No           | [Here](http://www.keyboard-layout-editor.com/#/gists/8ddceb2e7bdef2bfa16d6c0825257358) |
 | Kemove   | dk63  | Sonix SN32F248B        | WIP  | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) | RGB       | all     | Yes          | [Here](http://www.keyboard-layout-editor.com/#/gists/63afa32b87fe017ce0f906ef69d5122c) |
 | KeyDous  | NJ68  | M103CB(Nuvoton Nuc123) | No   |                                                              | RGB       | all     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/217036f674eb6cb34f9d9a87f2274fb4) |
 | Redragon | K530  | VS11K09A               | No   |                                                              | RGB       | all     | Bluetooth5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
@@ -40,7 +40,7 @@ A Mechanical Keyboard Database
 | 1stPlayer    | MK8            | Nuvoton NUC121SC2AE | WIP                                                  |                                                              | RGB       | 13key   | No       |        |
 | 1stPlayer    | DK5.0          | BYK816              | No                                                   |                                                              | RGB       | No      | No       |        |
 | Yuemi/Xiaomi | Yuemi Pro MK02 | STM32F072C8T6       | [Official QMK](https://github.com/qmk/qmk_firmware/) | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) | White | No | No |  |
-| Redragon     | K552-1         | VS11K09A            | No                                                   |                                                              | RGB       | Yes     | No       |        |
+| Redragon     | K552-1         | VS11K09A            | WIP                                                  |                                                              | RGB       | Yes     | No       |        |
 | Redragon     | K552-2         | VS11K09A-1          | WIP                                                  |                                                              | RGB       | Yes     | No       |        |
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                                   |                                                              | RGB       | Yes     | No       |        |
 | iKBC | F87 RGB | HT32F1854 | No | | RGB | No | No |  |
@@ -60,12 +60,12 @@ A Mechanical Keyboard Database
 
 ## Full Layout 104keys
 
-| Brand     | Model             | MCU      | QMK  | Link | Backlight | Hotswap | Wireless | KLE  |
-| --------- | ----------------- | -------- | ---- | ---- | --------- | ------- | -------- | ---- |
-| 1stPlayer | Bullet Hunter MK6 | VS11K09A | No   |      | RGB       | No      | No       |      |
-|           |                   |          |      |      |           |         |          |      |
-|           |                   |          |      |      |           |         |          |      |
-|           |                   |          |      |      |           |         |          |      |
-|           |                   |          |      |      |           |         |          |      |
-|           |                   |          |      |      |           |         |          |      |
-|           |                   |          |      |      |           |         |          |      |
+| Brand     | Model             | MCU        | QMK  | Link | Backlight | Hotswap | Wireless | KLE  |
+| --------- | ----------------- | --------   | ---- | ---- | --------- | ------- | -------- | ---- |
+| 1stPlayer | Bullet Hunter MK6 | VS11K09A   | No   |      | RGB       | No      | No       |      |
+| Redragon  | K556              | VS11K09A-1 | WIP  |      | RGB       | Yes     | No       |      |
+|           |                   |            |      |      |           |         |          |      |
+|           |                   |            |      |      |           |         |          |      |
+|           |                   |            |      |      |           |         |          |      |
+|           |                   |            |      |      |           |         |          |      |
+|           |                   |            |      |      |           |         |          |      |
