@@ -45,7 +45,7 @@ A Mechanical Keyboard Database
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                                   |                                                              | RGB       | Yes     | No       |        |
 | iKBC | F87 RGB | HT32F1854 | No | | RGB | No | No |  |
 | GANSS | GS87D | HFD48KP500 | No | | White | No | Bluetooth 3.0 |  |
-| Ajazz | K870T | HFD64??? | No | | RGB | No | Bluetooth 3.0 | |
+| Ajazz | K870T | HFD2201KBA | No | | RGB | No | Bluetooth 5.0 | |
 |  |  |  |  | |  |  |  | |
 |  |  |  |  | |  |  |  | |
 
