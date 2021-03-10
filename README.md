@@ -14,7 +14,7 @@ A Mechanical Keyboard Database
 | Redragon     | K530  | VS11K09A               | No   |                                                              | RGB       | all     | Bluetooth5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
 | Ajazz        | K620T | HFD2201KBA             | NO   |                                                              | RGB       | NO      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
 | Royal Kludge | RK61  | Sonix SN32F268         | WIP  |                                                              | White     | No      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-|              |       |                        |      |                                                              |           |         |              |                                                              |
+| Royal Kludge | RK68  | Sonix SN32F268         | WIP  |                                                              | White     | All     | Bluetooth    |                                                              |
 |              |       |                        |      |                                                              |           |         |              |                                                              |
 |              |       |                        |      |                                                              |           |         |              |                                                              |
 
@@ -25,7 +25,7 @@ A Mechanical Keyboard Database
 | keychron/京造 | K2         | VS11K17A          | No   |      | White     | No      | Bluetooth 5.1 | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 | keychron      | K2         | VS11K09A-1        | No   |      | RGB       | No      | Bluetooth 5.1 | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 | Akko          | 3084 BT5.0 | VS11K17A/SN32F268 | WIP  |      | White     | No      | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/f92a481c5b2a026e23ae2217ac37c32e) |
-|               |            |                   |      |      |           |         |               |                                                              |
+| Ajazz         | AK33RGB    | VS11K09A          | No   |      | RGB       | No      | No            |                                                              |
 |               |            |                   |      |      |           |         |               |                                                              |
 |               |            |                   |      |      |           |         |               |                                                              |
 |               |            |                   |      |      |           |         |               |                                                              |
@@ -45,6 +45,9 @@ A Mechanical Keyboard Database
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                                   |                                                              | RGB       | Yes     | No       |        |
 | iKBC | F87 RGB | HT32F1854 | No | | RGB | No | No |  |
 | GANSS | GS87D | HFD48KP500 | No | | White | No | Bluetooth 3.0 |  |
+| Ajazz | K870T | HFD64??? | No | | RGB | No | Bluetooth 3.0 | |
+|  |  |  |  | |  |  |  | |
+|  |  |  |  | |  |  |  | |
 
 ## 96% Layout
 
