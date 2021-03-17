@@ -25,8 +25,8 @@ A Mechanical Keyboard Database
 | keychron/京造 | K2         | VS11K17A          | No   |      | White     | No      | Bluetooth 5.1 | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 | keychron      | K2         | VS11K09A-1        | No   |      | RGB       | No      | Bluetooth 5.1 | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 | Akko          | 3084 BT5.0 | VS11K17A/SN32F268 | WIP  |      | White     | No      | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/f92a481c5b2a026e23ae2217ac37c32e) |
-| Ajazz         | AK33 RGB   | VS11K09A          | No   |      | RGB       | No      | No            |                                                              |
-| Ajazz         | AK33 White | SN32F268          | No   |      | White     | No      | No            |                                                              |
+| Ajazz         | AK33 RGB   | VS11K09A          | No   |      | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+| Ajazz         | AK33 White | SN32F268          | No   |      | White     | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 |               |            |                   |      |      |           |         |               |                                                              |
 |               |            |                   |      |      |           |         |               |                                                              |
 |               |            |                   |      |      |           |         |               |                                                              |
