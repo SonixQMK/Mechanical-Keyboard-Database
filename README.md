@@ -6,17 +6,17 @@ A Mechanical Keyboard Database
 
 ## 60% Layout
 
-| Brand        | Model | MCU                    | QMK  | Link                                                         | Backlight | Hotswap | Wireless     | KLE                                                          |
-| ------------ | ----- | ---------------------- | ---- | ------------------------------------------------------------ | --------- | ------- | ------------ | ------------------------------------------------------------ |
-| Womier       | K66   | Sonix SN32F268         | WIP  |                                                              | RGB       | all     | No           | [Here](http://www.keyboard-layout-editor.com/#/gists/8ddceb2e7bdef2bfa16d6c0825257358) |
-| Kemove       | dk63  | Sonix SN32F248B        | WIP  | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) | RGB       | all     | Yes          | [Here](http://www.keyboard-layout-editor.com/#/gists/63afa32b87fe017ce0f906ef69d5122c) |
-| KeyDous      | NJ68  | M103CB(Nuvoton Nuc123) | No   |                                                              | RGB       | all     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/217036f674eb6cb34f9d9a87f2274fb4) |
-| Redragon     | K530  | VS11K09A               | No   |                                                              | RGB       | all     | Bluetooth5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-| Ajazz        | K620T | HFD2201KBA             | NO   |                                                              | RGB       | NO      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-| Royal Kludge | RK61  | Sonix SN32F268         | WIP  | [Here](https://github.com/Diff-fusion/qmk_firmware/tree/royal_kludge_61)                                                             | White     | No      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-| Royal Kludge | RK68  | Sonix SN32F268         | WIP  | [Here](https://github.com/silasb/qmk_firmware/tree/rk68)                                                             | White     | All     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/0721c17468666207f84fcab230130ec9)                                                            |
-|              |       |                        |      |                                                              |           |         |              |                                                              |
-|              |       |                        |      |                                                              |           |         |              |                                                              |
+| Brand        | Model     | MCU                    | QMK  | Link                                                         | Backlight | Hotswap | Wireless     | KLE                                                          |
+| ------------ | --------- | ---------------------- | ---- | ------------------------------------------------------------ | --------- | ------- | ------------ | ------------------------------------------------------------ |
+| Womier       | K66       | Sonix SN32F268         | WIP  |                                                              | RGB       | all     | No           | [Here](http://www.keyboard-layout-editor.com/#/gists/8ddceb2e7bdef2bfa16d6c0825257358) |
+| Kemove       | dk63      | Sonix SN32F248B        | WIP  | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) | RGB       | all     | Yes          | [Here](http://www.keyboard-layout-editor.com/#/gists/63afa32b87fe017ce0f906ef69d5122c) |
+| KeyDous      | NJ68      | M103CB(Nuvoton Nuc123) | No   |                                                              | RGB       | all     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/217036f674eb6cb34f9d9a87f2274fb4) |
+| Redragon     | K530      | VS11K09A               | No   |                                                              | RGB       | all     | Bluetooth5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
+| Ajazz        | K620T     | HFD2201KBA             | NO   |                                                              | RGB       | NO      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
+| Royal Kludge | RK61      | Sonix SN32F268         | WIP  | [Here](https://github.com/Diff-fusion/qmk_firmware/tree/royal_kludge_61) | White     | No      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
+| Royal Kludge | RK68(855) | Sonix SN32F268         | WIP  | [Here](https://github.com/silasb/qmk_firmware/tree/rk68)     | White     | All     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/0721c17468666207f84fcab230130ec9) |
+|              |           |                        |      |                                                              |           |         |              |                                                              |
+|              |           |                        |      |                                                              |           |         |              |                                                              |
 
 ## 75% Layout
 
