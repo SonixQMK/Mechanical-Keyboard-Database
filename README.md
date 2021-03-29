@@ -43,6 +43,7 @@ A Mechanical Keyboard Database
 | Redragon     | K552-1         | VS11K09A            | WIP                                                  |                                                              | RGB       | Yes     | No       |        |
 | Redragon     | K552-2         | VS11K09A-1          | WIP                                                  |                                                              | RGB       | Yes     | No       |        |
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                                   |                                                              | RGB       | Yes     | No       |        |
+| Tecware | Phantom RGB | VS11K13A | No | | RGB | Yes (Outemu Only) | No | |
 | iKBC | F87 RGB | HT32F1854 | No | | RGB | No | No |  |
 | GANSS | GS87D | HFD48KP500 | No | | White | No | Bluetooth 3.0 |  |
 | Ajazz | K870T | HFD2201KBA | No | | RGB | No | Bluetooth 5.0 | |
