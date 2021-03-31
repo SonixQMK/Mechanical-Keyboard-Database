@@ -25,7 +25,8 @@ A Mechanical Keyboard Database
 | keychron/京造 | K2         | VS11K17A          | No   |      | White     | No      | Bluetooth 5.1 | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 | keychron      | K2         | VS11K09A-1        | No   |      | RGB       | No      | Bluetooth 5.1 | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 | Akko          | 3084 BT5.0 | VS11K17A/SN32F268 | WIP  |      | White     | No      | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/f92a481c5b2a026e23ae2217ac37c32e) |
-| Ajazz         | AK33 RGB   | VS11K09A          | No   |      | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+| Ajazz         | AK33 RGB-BJ33 | VS11K09A          | No   |      | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+| Ajazz         | AK33 RGB-SG33 | VS11K09A-1        | No   |      | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 | Ajazz         | AK33 White | SN32F268          | No   |      | White     | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
 |               |            |                   |      |      |           |         |               |                                                              |
 |               |            |                   |      |      |           |         |               |                                                              |
@@ -40,6 +41,7 @@ A Mechanical Keyboard Database
 | 1stPlayer    | MK8            | Nuvoton NUC121SC2AE | WIP                                                  |                                                              | RGB       | 13key   | No       |        |
 | 1stPlayer    | DK5.0          | BYK816              | No                                                   |                                                              | RGB       | No      | No       |        |
 | Yuemi/Xiaomi | Yuemi Pro MK02 | STM32F072C8T6       | [Official QMK](https://github.com/qmk/qmk_firmware/) | [Here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/xiaomi/mk02) | White | No | No |  |
+| Redragon     | K552           | VS11K09A            | WIP                                                  |                                                              | RGB       | No      | No       |        |
 | Redragon     | K552-1         | VS11K09A            | WIP                                                  |                                                              | RGB       | Yes     | No       |        |
 | Redragon     | K552-2         | VS11K09A-1          | WIP                                                  |                                                              | RGB       | Yes     | No       |        |
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                                   |                                                              | RGB       | Yes     | No       |        |
