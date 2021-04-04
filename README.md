@@ -66,12 +66,12 @@ A Mechanical Keyboard Database
 
 ## Full Layout 104keys
 
-| Brand     | Model             | MCU        | QMK  | Link | Backlight | Hotswap | Wireless | KLE  |
-| --------- | ----------------- | --------   | ---- | ---- | --------- | ------- | -------- | ---- |
-| 1stPlayer | Bullet Hunter MK6 | VS11K09A   | No   |      | RGB       | No      | No       |      |
-| Redragon  | K556              | VS11K09A-1 | WIP  |      | RGB       | Yes     | No       |      |
-|           |                   |            |      |      |           |         |          |      |
-|           |                   |            |      |      |           |         |          |      |
-|           |                   |            |      |      |           |         |          |      |
-|           |                   |            |      |      |           |         |          |      |
-|           |                   |            |      |      |           |         |          |      |
+| Brand     | Model             | MCU        | QMK             | Link | Backlight | Hotswap | Wireless | KLE  |
+| --------- | ----------------- | --------   | -------- | ---- | --------- | ------- | -------- | ---- |
+| 1stPlayer | Bullet Hunter MK6 | VS11K09A   | No       |      | RGB       | No      | No       |      |
+| Redragon  | K556              | VS11K09A-1 | WIP      |      | RGB       | Yes     | No       |      |
+| Redragon  | K582              | VS11K09A-1 | See K556 |      | RGB       | Yes     | No       |      |
+|           |                   |            |          |      |           |         |          |      |
+|           |                   |            |          |      |           |         |          |      |
+|           |                   |            |          |      |           |         |          |      |
+|           |                   |            |          |      |           |         |          |      |
