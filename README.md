@@ -39,39 +39,40 @@ A Mechanical Keyboard Database
 | Brand                   | Model          | MCU                 | QMK                                  | Link                         | Backlight | Hotswap | Wireless      | KLE                                                                                    |
 | ----------------------- | -------------- | ------------------- | ------------------------------------ | -----------------------------| --------- | ------- | ------------- | -------------------------------------------------------------------------------------- |
 | 1stPlayer               | MK8            | Nuvoton NUC121SC2AE | WIP                                  |                              | RGB       | 13key   | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/8151dafe2cbd653ffe7df9b99f14d9b3) |
-| 1stPlayer               | DK5.0          | BYK816              | No                                   |                              | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/9f69e32d68d8b06c1bf3c3b61c4cfacc) |
+| 1stPlayer               | DK5.0 Lite     | BYK816              | No                                   |                              | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/1808dda040416cfafe36329d84907a35) |
 | Yuemi/Xiaomi            | Yuemi Pro MK02 | STM32F072C8T6       | [Official QMK](https://git.io/JO3C1) | [Here](https://git.io/JO3nF) | White     | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/fcd42696d0ff4d0788870460b5401b22) |
-| Redragon                | K552           | VS11K09A            | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/b36dcdea15c466a83d6de389b05cf7c5) |
-| Redragon                | K552-1         | VS11K09A            | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | Yes     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/b36dcdea15c466a83d6de389b05cf7c5) |
-| Redragon                | K552-2         | VS11K09A-1          | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | Yes     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/b36dcdea15c466a83d6de389b05cf7c5) |
+| Redragon                | K552RGB        | VS11K09A            | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/b36dcdea15c466a83d6de389b05cf7c5) |
+| Redragon                | K552RGB-1      | VS11K09A            | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | Yes     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/b36dcdea15c466a83d6de389b05cf7c5) |
+| Redragon                | K552RGB-2      | VS11K09A-1          | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | Yes     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/b36dcdea15c466a83d6de389b05cf7c5) |
 | Glorious PC Gaming Race | GMMK TKL 2020  | VS11K13A            | No                                   |                              | RGB       | Yes     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/4bd6c41cc5330b1e875fff528ac4a627) |
-| Tecware                 | Phantom RGB    | VS11K13A            | No                                   |                              | RGB       | Yes     | No            |                                                                                        |
-| iKBC                    | F87 RGB        | HT32F1854           | No                                   |                              | RGB       | No      | No            |                                                                                        |
-| GANSS                   | GS87D          | HFD48KP500          | No                                   |                              | White     | No      | Bluetooth 3.0 |                                                                                        |
-| Ajazz                   | K870T          | HFD2201KBA          | No                                   |                              | RGB       | No      | Bluetooth 5.0 |                                                                                        |
-| E-Dra                   | EK387-RGB      | VS11K09A-1          | No                                   |                              | RGB       | Yes     | No            |                                                                                        |
+| Tecware                 | Phantom 87 RGB | VS11K13A            | No                                   |                              | RGB       | Yes     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/bf2171b909d796d4333a5b3536f7bf23) |
+| iKBC                    | F87 RGB        | HT32F1854           | No                                   |                              | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/6de08aa78aa96ceecbff24080d628b9e) |
+| GANSS                   | GS87D          | HFD48KP500          | No                                   |                              | White     | No      | Bluetooth 3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/edea1f92ede1cb04a99b1e7cd4631797) |
+| Ajazz                   | K870T          | HFD2201KBA          | No                                   |                              | RGB       | No      | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/5e46c1b6ac2cc5ca9afb559722431e14) |
+| E-Dra                   | EK387-RGB      | VS11K09A-1          | No                                   |                              | RGB       | Yes     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/d879c29f46369b00d314f9c677a06876) |
 |                         |                |                     |                                      |                              |           |         |               |                                                                                        |
 
 ## 96% Layout
 
-| Brand           | Model      | MCU  | QMK  | Link | Backlight | Hotswap | Wireless | KLE  |
-| --------------- | ---------- | ---- | ---- | ---- | --------- | ------- | -------- | ---- |
-| FL-Esports/腹灵 | FL980      | ?    | No   |      | RGB       | All     | BT&2.4G  |      |
-| Royal Kludge    | RK100(860) | ?    | No   |      | White     | All     | BT&2.4G  |      |
-|                 |            |      |      |      |           |         |          |      |
-|                 |            |      |      |      |           |         |          |      |
-|                 |            |      |      |      |           |         |          |      |
-|                 |            |      |      |      |           |         |          |      |
-|                 |            |      |      |      |           |         |          |      |
+| Brand           | Model      | MCU  | QMK  | Link | Backlight | Hotswap | Wireless | KLE                                                                                    |
+| --------------- | ---------- | ---- | ---- | ---- | --------- | ------- | -------- | -------------------------------------------------------------------------------------- |
+| Flesports/腹灵  | FL980      | ?    | No   |      | RGB       | All     | BT&2.4G  | [Here](http://www.keyboard-layout-editor.com/#/gists/8d3fc231a29b0fc8240d4c4553998f25) |
+| Royal Kludge    | RK100(860) | ?    | No   |      | White     | All     | BT&2.4G  | [Here](http://www.keyboard-layout-editor.com/#/gists/708d3282ca2169d08408cd1c718991c4) |
+|                 |            |      |      |      |           |         |          |                                                                                        |
+|                 |            |      |      |      |           |         |          |                                                                                        |
+|                 |            |      |      |      |           |         |          |                                                                                        |
+|                 |            |      |      |      |           |         |          |                                                                                        |
+|                 |            |      |      |      |           |         |          |                                                                                        |
 
 ## 100% Layout (Full-size)
 
-| Brand     | Model             | MCU        | QMK  | Link                         | Backlight | Hotswap | Wireless | KLE  |
-| --------- | ----------------- | --------   | ---- | ---------------------------- | --------- | ------- | -------- | ---- |
-| 1stPlayer | Bullet Hunter MK6 | VS11K09A   | No   |                              | RGB       | No      | No       |      |
-| Redragon  | K556              | VS11K09A-1 | WIP  | [Here](https://git.io/JO3Wy) | RGB       | Yes     | No       |      |
-| Redragon  | K582              | VS11K09A-1 | WIP  |                              | RGB       | Yes     | No       |      |
-|           |                   |            |      |                              |           |         |          |      |
-|           |                   |            |      |                              |           |         |          |      |
-|           |                   |            |      |                              |           |         |          |      |
-|           |                   |            |      |                              |           |         |          |      |
+| Brand     | Model             | MCU        | QMK  | Link                         | Backlight | Hotswap | Wireless | KLE                                                                                    |
+| --------- | ----------------- | --------   | ---- | ---------------------------- | --------- | ------- | -------- | -------------------------------------------------------------------------------------- |
+| 1stPlayer | Bullet Hunter MK6 | VS11K09A   | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/fcefa4d3f55078d166ddd97ffb8580a2) |
+| 1stPlayer | DK5.0             | ?          | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/9f69e32d68d8b06c1bf3c3b61c4cfacc) |
+| Redragon  | K556              | VS11K09A-1 | WIP  | [Here](https://git.io/JO3Wy) | RGB       | Yes     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/c0008dfb1f2ba3a1d191533580ce1b4c) |
+| Redragon  | K582              | VS11K09A-1 | WIP  |                              | RGB       | Yes     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/f76a6804e2d5efe2fe26d78c2d1c69ba) |
+|           |                   |            |      |                              |           |         |          |                                                                                        |
+|           |                   |            |      |                              |           |         |          |                                                                                        |
+|           |                   |            |      |                              |           |         |          |                                                                                        |
+|           |                   |            |      |                              |           |         |          |                                                                                        |
