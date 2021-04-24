@@ -72,7 +72,7 @@ A Mechanical Keyboard Database
 | 1stPlayer | DK5.0             | BYK816     | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/9f69e32d68d8b06c1bf3c3b61c4cfacc) |
 | Redragon  | K556              | VS11K09A-1 | WIP  | [Here](https://git.io/JO3Wy) | RGB       | Yes     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/c0008dfb1f2ba3a1d191533580ce1b4c) |
 | Redragon  | K582              | VS11K09A-1 | WIP  |                              | RGB       | Yes     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/f76a6804e2d5efe2fe26d78c2d1c69ba) |
-|           |                   |            |      |                              |           |         |          |                                                                                        |
+| aLLreLi   | K643              | VS11K09A   | WIP  | [Here](https://git.io/JOST1) | RGB       | No      | No       |                                                                                        |
 |           |                   |            |      |                              |           |         |          |                                                                                        |
 |           |                   |            |      |                              |           |         |          |                                                                                        |
 |           |                   |            |      |                              |           |         |          |                                                                                        |
