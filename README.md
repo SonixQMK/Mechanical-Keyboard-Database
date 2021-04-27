@@ -6,17 +6,17 @@ A Mechanical Keyboard Database
 
 ## 60% Layout (Compact)
 
-| Brand        | Model     | MCU                    | QMK  | Link                         | Backlight | Hotswap | Wireless     | KLE                                                                                    |
-| ------------ | --------- | ---------------------- | ---- | -----------------------------| --------- | ------- | ------------ | -------------------------------------------------------------------------------------- |
-| Womier       | K66       | Sonix SN32F268         | WIP  |                              | RGB       | All     | No           | [Here](http://www.keyboard-layout-editor.com/#/gists/8ddceb2e7bdef2bfa16d6c0825257358) |
-| Kemove       | DK63      | Sonix SN32F248B        | WIP  | [Here](https://git.io/JO34J) | RGB       | All     | Yes          | [Here](http://www.keyboard-layout-editor.com/#/gists/63afa32b87fe017ce0f906ef69d5122c) |
-| KeyDous      | NJ68      | M103CB(Nuvoton Nuc123) | No   |                              | RGB       | All     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/217036f674eb6cb34f9d9a87f2274fb4) |
-| Redragon     | K530      | VS11K09A-1             | No   |                              | RGB       | All     | Bluetooth5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-| Ajazz        | K620T     | HFD2201KBA             | No   |                              | RGB       | No      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-| Royal Kludge | RK61      | Sonix SN32F268         | WIP  | [Here](https://git.io/JO3cI) | White     | No      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-| Royal Kludge | RK68(855) | Sonix SN32F268         | WIP  | [Here](https://git.io/JO3cO) | White     | All     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/0721c17468666207f84fcab230130ec9) |
-|              |           |                        |      |                              |           |         |              |                                                                                        |
-|              |           |                        |      |                              |           |         |              |                                                                                        |
+| Brand        | Model      | MCU                    | QMK  | Link                         | Backlight | Hotswap | Wireless     | KLE                                                                                    |
+| ------------ | ---------- | ---------------------- | ---- | -----------------------------| --------- | ------- | ------------ | -------------------------------------------------------------------------------------- |
+| Womier       | K66        | Sonix SN32F268         | WIP  |                              | RGB       | All     | No           | [Here](http://www.keyboard-layout-editor.com/#/gists/8ddceb2e7bdef2bfa16d6c0825257358) |
+| Kemove       | DK63       | Sonix SN32F248B        | WIP  | [Here](https://git.io/JO34J) | RGB       | All     | Yes          | [Here](http://www.keyboard-layout-editor.com/#/gists/63afa32b87fe017ce0f906ef69d5122c) |
+| KeyDous      | NJ68       | M103CB(Nuvoton Nuc123) | No   |                              | RGB       | All     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/217036f674eb6cb34f9d9a87f2274fb4) |
+| Redragon     | K530       | VS11K09A-1             | No   |                              | RGB       | All     | Bluetooth5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
+| Ajazz        | K620T      | HFD2201KBA             | No   |                              | RGB       | No      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
+| Royal Kludge | RK61       | Sonix SN32F268         | WIP  | [Here](https://git.io/JO3cI) | White     | No      | Bluetooth3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
+| Royal Kludge | RK68(855)  | Sonix SN32F268         | WIP  | [Here](https://git.io/JO3cO) | White     | All     | Bluetooth    | [Here](http://www.keyboard-layout-editor.com/#/gists/0721c17468666207f84fcab230130ec9) |
+| E-Dra        | EK361W-RGB | VS11K09A-1             | No   |                              | RGB       | ?       | No           | [Here](http://www.keyboard-layout-editor.com/#/gists/abdebfbedcb2906eccb7061d52101643) |
+|              |            |                        |      |                              |           |         |              |                                                                                        |
 
 ## 75% Layout
 
@@ -72,7 +72,7 @@ A Mechanical Keyboard Database
 | 1stPlayer | DK5.0             | BYK816     | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/9f69e32d68d8b06c1bf3c3b61c4cfacc) |
 | Redragon  | K556              | VS11K09A-1 | WIP  | [Here](https://git.io/JO3Wy) | RGB       | Yes     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/c0008dfb1f2ba3a1d191533580ce1b4c) |
 | Redragon  | K582              | VS11K09A-1 | WIP  |                              | RGB       | Yes     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/f76a6804e2d5efe2fe26d78c2d1c69ba) |
-| aLLreLi   | K643              | VS11K09A   | WIP  | [Here](https://git.io/JOST1) | RGB       | No      | No       |                                                                                        |
-|           |                   |            |      |                              |           |         |          |                                                                                        |
-|           |                   |            |      |                              |           |         |          |                                                                                        |
+| aLLreLi   | K643              | VS11K09A   | WIP  | [Here](https://git.io/JOST1) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/3377a0a5d2f48423e88bc487910509b5) |
+| E-Dra     | EK3104-RGB        | VS11K09A-1 | No   |                              | RGB       | Yes     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/1b08e9d6709f70179504e059fe2c6e70) |
+| E-Dra     | EK308-RGB         | VS11K09A-1 | No   |                              | RGB       | ?       | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/b0c06905a60e508c811958b9d2e9c658) |
 |           |                   |            |      |                              |           |         |          |                                                                                        |
