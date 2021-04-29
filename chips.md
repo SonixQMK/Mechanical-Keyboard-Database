@@ -1,8 +1,9 @@
-# Chips and qmk
+# Chips & QMK
 
 ## Work In Progress Chips
 
-- SN32F248B https://github.com/smp4488/qmk_firmware
+- SN32F248  https://github.com/SonixQMK/qmk_firmware
+- SN32F248B https://github.com/SonixQMK/qmk_firmware
 - SN32F268 
 
 ## Supported Chips
@@ -23,6 +24,6 @@
 | eVision | VS11K17A   | SN32F268F    | LQFP 48 pins |
 | eVision | VS11K20A   | SN32F268F    | LQFP 48 pins |
 | eVision | VS12L03A   | SLED1734X    | SSOP 28 pins |
-| HFD   | HFD2201KBA   | SN32F248B    | LQFP 64 pins |
-| HFD | HFD48KP500 | SN32F268F | LQFP 48 pins |
-| HFD | HFD64KG800 | SN32F248B | LQFP 64 pins |
+| HFD     | HFD2201KBA | SN32F248B    | LQFP 64 pins |
+| HFD     | HFD48KP500 | SN32F268F    | LQFP 48 pins |
+| HFD     | HFD64KG800 | SN32F248B    | LQFP 64 pins |
