@@ -22,17 +22,18 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   
   ## 61 Keys
 
-  | Brand        | Model  | MCU        | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless      | KLE                                                                                    |
-  | ------------ | ------ | ---------- | ----------- | ---- | -----------------------------| --------- | ------- | ------------- | -------------------------------------------------------------------------------------- |
-  | Ajazz        | K620T  | HFD2201KBA | SN32F248B   | No   |                              | RGB       | No      | Bluetooth 3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-  | Akko         | 3061S  | ?          | SN32F248B   | WIP  |                              | RGB       | No      | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/4d274d324ddd2086387a1ace5ed84635) |
-  | E-Dra        | EK361W | ?          | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/abdebfbedcb2906eccb7061d52101643) |
-  | IQUNIX       | F60    | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/96918d46c4a13ee1673cef0b9c3654fa) |
-  | Redragon     | K530   | VS11K09A-1 | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All     | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/8be3e599dc4f67b6c0f00cc80a60cd65) |
-  | Redragon     | K630   | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/2ca9bf368b2f987c0c0be06c28ff071c) |
-  | Royal Kludge | RK61   | ?          | SN32F268    | WIP  | [Here](https://git.io/JO3cI) | White     | No      | Bluetooth 3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
-  | Smart Duck   | XS61   | ?          | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/94e3e00626d7563ed4bbea687e20e841) |
-  |              |        |            |             |      |                              |           |         |               |                                                                                        |
+  | Brand        | Model     | MCU        | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless      | KLE                                                                                    |
+  | ------------ | ------    | ---------- | ----------- | ---- | -----------------------------| --------- | ------- | ------------- | -------------------------------------------------------------------------------------- |
+  | Ajazz        | K620T     | HFD2201KBA | SN32F248B   | No   |                              | RGB       | No      | Bluetooth 3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
+  | Akko         | 3061S     | ?          | SN32F248B   | WIP  |                              | RGB       | No      | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/4d274d324ddd2086387a1ace5ed84635) |
+  | E-Dra        | EK361W    | ?          | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/abdebfbedcb2906eccb7061d52101643) |
+  | FlashQuark   | Horizon Z | HFD2201KBA | SN32F248B   | WIP  |                              | RGB       | No      | Bluetooth 5.0 |                                                                                        |
+  | IQUNIX       | F60       | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/96918d46c4a13ee1673cef0b9c3654fa) |
+  | Redragon     | K530      | VS11K09A-1 | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All     | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/8be3e599dc4f67b6c0f00cc80a60cd65) |
+  | Redragon     | K630      | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/2ca9bf368b2f987c0c0be06c28ff071c) |
+  | Royal Kludge | RK61      | ?          | SN32F268    | WIP  | [Here](https://git.io/JO3cI) | White     | No      | Bluetooth 3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
+  | Smart Duck   | XS61      | ?          | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/94e3e00626d7563ed4bbea687e20e841) |
+  |              |           |            |             |      |                              |           |         |               |                                                                                        |
 
   ## 63 Keys
 
