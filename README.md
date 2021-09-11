@@ -84,7 +84,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
 
   | Brand         | Model   | MCU        | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless                | KLE                                                                                    |
   | ------------- | ------- | ---------- | ----------- | ---- | ---- | --------- | ------- | ----------------------- | -------------------------------------------------------------------------------------- |
-  | Akko          | 3084    | ?          | SN32F268    | No   |      | No        | No      | Bluetooth 3.0           | [Here](http://www.keyboard-layout-editor.com/#/gists/399700dca7f39a347f8f89d752b46bda) |
+  | Akko          | 3084    | VS11K17A   | SN32F268    | No   |      | No        | No      | Bluetooth 3.0           | [Here](http://www.keyboard-layout-editor.com/#/gists/399700dca7f39a347f8f89d752b46bda) |
   | Akko          | 3084    | VS11K17A   | SN32F268    | WIP  |      | White     | No      | Bluetooth 5.0           | [Here](http://www.keyboard-layout-editor.com/#/gists/f92a481c5b2a026e23ae2217ac37c32e) |
   | Akko          | 3084 v2 | ?          | SN32F268    | No   |      | No        | All     | No                      | [Here](http://www.keyboard-layout-editor.com/#/gists/0483653eb4a87fd92bb5c94cb4074aee) |
   | Keychron/京造 | K2      | VS11K17A   | SN32F268    | No   |      | White     | No      | Bluetooth 5.1           | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
