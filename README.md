@@ -144,7 +144,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Keychron      | K2 (V2)   | HFD2201KBA | SN32F248B   | No   |                              | RGB       | No & All | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Keychron      | K2 (V2)   | ?          | SN32F268    | No   |                              | White     | No & All | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Keychron      | K3        | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All      | Bluetooth 5.1     |                                                                                        |
-  | Keychron      | K3        | ?          | SN32F268    | No   |                              | White     | All      | Bluetooth 5.1     |                                                                                        |
+  | Keychron      | K3 (V1)   | HFD48KG300 | SN32F268    | No   |                              | White     | All      | Bluetooth 5.1     |                                                                                        |
   | Royal Kludge  | RK84      | ?          | SN32F248B   | No   |                              | RGB       | All      | BLE 5.1 & 2.4 GHz | [Here](http://www.keyboard-layout-editor.com/#/gists/be675867e0d684b31418a4179be5f231) |
   |               |           |            |             |      |                              |           |          |                   |                                                                                        |
 </details>
