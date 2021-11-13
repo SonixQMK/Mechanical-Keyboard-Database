@@ -1,4 +1,4 @@
-# MCU-chip-database
+# MCU Chip Database
 
 A MCU chip database
 
@@ -66,6 +66,7 @@ A MCU chip database
   | STMicroelectronics | STM32F072C8T6 | No              | ARM Cortex-M0  | LQFP  48 pins |
   | Unknown            | M103CB        | Nuvoton         | ARM Cortex-M0  | LQFP  48 pins |
   | WCH                | CH555         | No              | Intel 8051     | LQFP  48 pins |
+  | Yichip             | YC3121-E      | No              | 32-bit RISC-V  | QFN   56 pins |
   |                    |               |                 |                |               |
 </details>
 
