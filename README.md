@@ -34,7 +34,12 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Royal Kludge | RK61      | ?          | SN32F268    | WIP  | [Here](https://git.io/JO3cI) | White     | No      | Bluetooth 3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
   | Smart Duck   | XS61      | ?          | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/94e3e00626d7563ed4bbea687e20e841) |
   |              |           |            |             |      |                              |           |         |               |                                                                                        |
-
+  ## 62 Keys
+    
+  | Brand        | Model     | MCU        | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless      | KLE                                                                                    |
+  | ------------ | ------    | ---------- | ----------- | ---- | -----------------------------| --------- | ------- | ------------- | -------------------------------------------------------------------------------------- |
+  | Deltaco      | WK85B     | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JuKf7) | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/7452d2f598a8a3be921e26ef6f4c3307) |
+  
   ## 63 Keys
 
   | Brand          | Model  | MCU        | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless      | KLE                                                                                    |
