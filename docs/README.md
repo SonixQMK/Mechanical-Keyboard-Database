@@ -24,6 +24,8 @@ A MCU chip database
   | eVision | VS09M19A     | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
   | eVision | VS32F01A     | SONIX           | ARM Cortex-M0 | SSOP 24 pins |
   | HFD     | HFD2201KBA   | SONIX           | ARM Cortex-M0 | LQFP 64 pins |
+  | HFD     | HFD48KC900   | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
+  | HFD     | HFD48KG300   | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
   | HFD     | HFD48KP500   | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
   | HFD     | HFD64KG800   | SONIX           | ARM Cortex-M0 | LQFP 64 pins |
   | SONIX   | SN32F248     | No              | ARM Cortex-M0 | LQFP 64 pins |
@@ -50,6 +52,7 @@ A MCU chip database
   | eVision            | VS09M12A      | SONIX           | 8-bit Flash    | SSOP  24 pins |
   | eVision            | VS09M13A      | SONIX           | 8-bit OTP      | SSOP  24 pins |
   | eVision            | VS82B40SR00A  | SONIX           | 8-bit Flash    | LQFP  48 pins |
+  | HFD                | HFD801KJC     | WCH             | Intel 8051     | LQFP  48 pins |
   | MosArt             | MA80M08       | No              | Unknown        | LQFP 128 pins |
   | MosArt             | MA80M081      | No              | Unknown        | LQFP 128 pins |
   | Nuvoton            | M252SD2AE     | No              | ARM Cortex-M23 | LQFP  64 pins |

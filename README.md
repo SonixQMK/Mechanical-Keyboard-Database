@@ -64,6 +64,13 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Womier(GamaKay)         | K61 (V2)          | VS11K28A   | CH555       | No   |                              | RGB       | All     | No                |                                                                                        |
   |                         |                   |            |             |      |                              |           |         |                   |                                                                                        |
 
+  ## 62 Keys
+
+  | Brand   | Model | MCU        | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless      | KLE                                                                                    |
+  | ------- | ----- | ---------- | ----------- | ---- | -----------------------------| --------- | ------- | ------------- | -------------------------------------------------------------------------------------- |
+  | Deltaco | WK85B | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JuKf7) | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/7452d2f598a8a3be921e26ef6f4c3307) |
+  |         |       |            |             |      |                              |           |         |               |                                                                                        |
+
   ## 63 Keys
 
   | Brand          | Model  | MCU        | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless      | KLE                                                                                    |
@@ -114,7 +121,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | KeyDous         | NJ68      | M103CB     | NUC123      | No   |                              | RGB       | All     | Bluetooth 5.0     | [Here](http://www.keyboard-layout-editor.com/#/gists/217036f674eb6cb34f9d9a87f2274fb4) |
   | Keychron        | K6        | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All     | Bluetooth 5.1     |                                                                                        |
   | Keychron        | K6        | ?          | SN32F268    | WIP  | [Here](https://git.io/JO3Wy) | White     | All     | Bluetooth 5.1     |                                                                                        |
-  | Keychron        | K7        | HFD2201KBA | SN32F248B   | No   |                              | RGB       | All     | Bluetooth 5.1     |                                                                                        |
+  | Keychron        | K7        | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All     | Bluetooth 5.1     |                                                                                        |
   | Keychron        | K7        | ?          | SN32F268    | No   |                              | White     | All     | Bluetooth 5.1     |                                                                                        |
   | Royal Kludge    | RK68(855) | ?          | SN32F268    | WIP  | [Here](https://git.io/JO3cO) | White     | All     | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/0721c17468666207f84fcab230130ec9) |
   | Royal Kludge    | RK68(855) | ?          | SN32F268    | No   |                              | Blue      | All     | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/0721c17468666207f84fcab230130ec9) |
@@ -128,6 +135,14 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | DareU        | EK871 | ?          | SN32F268    | No   |      | White     | All     | Bluetooth 5.0 |      |
   | Royal Kludge | RK71  | HFD2201KBA | SN32F248B   | No   |      | RGB       | All     | Bluetooth 3.0 |      |
   |              |       |            |             |      |      |           |         |               |      |
+  
+  ## 72 Keys
+  | Brand    | Model | MCU        | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless      | KLE  |
+  | -------- | ----- | ---------- | ----------- | ---- | ---------------------------- | --------- | ------- | ------------- | ---- |
+  | Keychron | K14   | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All     | Bluetooth 5.1 |      |
+  | Keychron | K14   | ?          | SN32F268    | No   |                              | No        | All     | Bluetooth 5.1 |      |
+  | Keychron | K14   | ?          | SN32F268    | No   |                              | White     | All     | Bluetooth 5.1 |      |
+  |          |       |            |             |      |                              |           |         |               |      |
 </details>
 
 ## 75% Layout (Compact TKL)
@@ -147,11 +162,12 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   |         |       |          |             |      |      |           |         |                   |      |
 
   ## 81 Keys
-  | Brand | Model   | MCU      | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless | KLE  |
-  | ----- | ------- | -------- | ----------- | ---- | ---- | --------- | ------- | -------- | ---- |
-  | Akko  | ACR75   | VS11K28A | CH555       | No   |      | RGB       | All     | No       |      |
-  | Akko  | MOD 007 | YC3121-E | No          | No   |      | RGB       | All     | No       |      |
-  |       |         |          |             |      |      |           |         |          |      |
+  | Brand       | Model   | MCU       | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless          | KLE  |
+  | -----       | ------- | --------- | ----------- | ---- | ---- | --------- | ------- | ----------------- | ---- |
+  | Akko        | ACR75   | VS11K28A  | CH555       | No   |      | RGB       | All     | No                |      |
+  | Akko        | MOD 007 | YC3121-E  | No          | No   |      | RGB       | All     | No                |      |
+  | keyboardman | K-75S   | HFD801KJC | CH555       | No   |      | RGB       | All     | BLE 5.0 & 2.4 GHz |      |
+  |             |         |           |             |      |      |           |         |                   |      |
 
   ## 82 Keys
 
@@ -172,12 +188,15 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Akko          | 3084 (V2) | VS11K17A   | SN32F268    | WIP  |                              | White     | No       | Bluetooth 5.0     | [Here](http://www.keyboard-layout-editor.com/#/gists/f92a481c5b2a026e23ae2217ac37c32e) |
   | Akko          | 3084 (V3) | ?          | SN32F268    | No   |                              | White     | All      | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/0483653eb4a87fd92bb5c94cb4074aee) |
   | Keychron      | K2        | VS11K17A   | SN32F268    | No   |                              | White     | No       | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
-  | Keychron      | K2 (V1)   | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No & All | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+  | Keychron      | K2 (V1)   | HFD2201KBA | SN32F248B   | No   |                              | RGB       | No & All | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Keychron      | K2 (V1)   | ?          | SN32F268    | No   |                              | White     | No & All | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
-  | Keychron      | K2 (V2)   | HFD2201KBA | SN32F248B   | No   |                              | RGB       | No & All | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+  | Keychron      | K2 (V2)   | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No & All | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Keychron      | K2 (V2)   | ?          | SN32F268    | No   |                              | White     | No & All | Bluetooth 5.1     | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
-  | Keychron      | K3        | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All      | Bluetooth 5.1     |                                                                                        |
+  | Keychron      | K3 (V1)   | HFD2201KBA | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All      | Bluetooth 5.1     |                                                                                        |
+  | Keychron      | K3 (V2)   | HFD2201KBA | SN32F248B   | No   |                              | RGB       | All      | Bluetooth 5.1     |                                                                                        |
+  | Keychron      | K3 (V1)   | HFD48KG300 | SN32F268    | No   |                              | No        | All      | Bluetooth 5.1     |                                                                                        |
   | Keychron      | K3 (V1)   | HFD48KG300 | SN32F268    | No   |                              | White     | All      | Bluetooth 5.1     |                                                                                        |
+  | Keychron      | K3 (V2)   | ?          | SN32F268    | No   |                              | White     | All      | Bluetooth 5.1     |                                                                                        |
   | Royal Kludge  | RK84      | ?          | SN32F248B   | No   |                              | RGB       | All      | BLE 5.1 & 2.4 GHz | [Here](http://www.keyboard-layout-editor.com/#/gists/be675867e0d684b31418a4179be5f231) |
   |               |           |            |             |      |                              |           |          |                   |                                                                                        |
 </details>
@@ -212,7 +231,8 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | iKBC                    | F87               | HT32F1854     | No          | No                                   |                              | RGB       | No      | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/6de08aa78aa96ceecbff24080d628b9e) |
   | IQUNIX                  | SLIM87            | VS11K09A-1    | SN32F248B   | No                                   |                              | RGB       | All     | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/fb2f550a259d4d9d4c99aa3b25a70ef4) |
   | Keychron                | C1                | HFD2201KBA    | SN32F248B   | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | No      | No                |                                                                                        |
-  | Keychron                | C1                | HFD48KC900    | SN32F268    | No                                   |                              | White     | No      | No                |                                                                                        |
+  | Keychron                | C1                | HFD48KC900    | SN32F268    | WIP                                  | [Here](https://git.io/JO3Wy) | No        | No      | No                |                                                                                        |
+  | Keychron                | C1                | HFD48KC900    | SN32F268    | WIP                                  | [Here](https://git.io/JO3Wy) | White     | No      | No                |                                                                                        |
   | Keychron                | K1 (V1)           | HFD2201KBA    | SN32F248B   | No                                   |                              | RGB       | All     | Bluetooth 5.1     |                                                                                        |
   | Keychron                | K1 (V1)           | ?             | SN32F268    | No                                   |                              | White     | All     | Bluetooth 5.1     |                                                                                        |
   | Keychron                | K1 (V2)           | HFD2201KBA    | SN32F248B   | No                                   |                              | RGB       | All     | Bluetooth 5.1     |                                                                                        |
@@ -224,6 +244,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Keychron                | K1 (V5)           | HFD2201KBA    | SN32F248B   | No                                   |                              | RGB       | All     | Bluetooth 5.1     |                                                                                        |
   | Keychron                | K1 (V5)           | ?             | SN32F268    | No                                   |                              | White     | All     | Bluetooth 5.1     |                                                                                        |
   | Keychron                | K8                | HFD2201KBA    | SN32F248B   | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | All     | Bluetooth 5.1     |                                                                                        |
+  | Keychron                | K8                | ?             | SN32F268    | No                                   |                              | No        | All     | Bluetooth 5.1     |                                                                                        |
   | Keychron                | K8                | ?             | SN32F268    | No                                   |                              | White     | All     | Bluetooth 5.1     |                                                                                        |
   | Redragon                | K552 (V1)         | VS11K05A      | ?           | No                                   |                              | RGB       | No      | No                |                                                                                        |
   | Redragon                | K552 (V2)         | VS11K09A      | SN32F248    | WIP                                  | [Here](https://git.io/JO3Wy) | RGB       | No      | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/b36dcdea15c466a83d6de389b05cf7c5) |
@@ -246,6 +267,24 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Womier(GamaKay)         | K87 (V2)          | VS11K28A      | CH555       | No                                   |                              | RGB       | All     | No                |                                                                                        |
   | Yuemi/Xiaomi            | Yuemi Pro MK02    | STM32F072C8T6 | No          | [Official QMK](https://git.io/JO3C1) | [Here](https://git.io/JO3nF) | White     | No      | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/fcd42696d0ff4d0788870460b5401b22) |
   |                         |                   |               |             |                                      |                              |           |         |                   |                                                                                        |
+
+  ## 88 Keys
+
+  | Brand    | Model       | MCU        | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless      | KLE  |
+  | -------- | ----------- | ---------- | ----------- | ---- | ---- | --------- | ------- | ------------- | ---- |
+  | Keychron | K2-JIS (V2) | HFD2201KBA | SN32F248B   | No   |      | RGB       | All     | Bluetooth 5.1 |      |
+  | Keychron | K2-JIS (V2) | ?          | SN32F268    | No   |      | White     | All     | Bluetooth 5.1 |      |
+  |          |             |            |             |      |      |           |         |               |      |
+
+  ## 91 Keys
+
+  | Brand    | Model       | MCU        | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless      | KLE  |
+  | -------- | ----------- | ---------- | ----------- | ---- | ---- | --------- | ------- | ------------- | ---- |
+  | Keychron | K1-JIS (V4) | HFD2201KBA | SN32F248B   | No   |      | RGB       | All     | Bluetooth 5.1 |      |
+  | Keychron | K1-JIS (V4) | ?          | SN32F268    | No   |      | White     | All     | Bluetooth 5.1 |      |
+  | Keychron | K8-JIS      | HFD2201KBA | SN32F248B   | No   |      | RGB       | All     | Bluetooth 5.1 |      |
+  | Keychron | K8-JIS      | ?          | SN32F268    | No   |      | White     | All     | Bluetooth 5.1 |      |
+  |          |             |            |             |      |      |           |         |               |      |
 </details>
 
 ## 96% Layout (Compact Full-size)
@@ -305,6 +344,8 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Keychron                | K1 (V2)           | HFD2201KBA | SN32F248B   | No   |                              | RGB       | All     | Bluetooth 5.1 |                                                                                        |
   | Keychron                | K1 (V3)           | HFD2201KBA | SN32F248B   | No   |                              | RGB       | All     | Bluetooth 5.1 |                                                                                        |
   | Keychron                | K1 (V4)           | HFD2201KBA | SN32F248B   | No   |                              | RGB       | All     | Bluetooth 5.1 |                                                                                        |
+  | Keychron                | K10               | HFD2201KBA | SN32F248B   | No   |                              | RGB       | All     | Bluetooth 5.1 |                                                                                        |
+  | Keychron                | K10               | ?          | SN32F268    | No   |                              | White     | All     | Bluetooth 5.1 |                                                                                        |
   | Redragon                | K512              | ?          | SN32F268    | No   |                              | RGB       | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/6633a259a2e2f86aa0b6989fedf5335e) |
   | Redragon                | K556              | VS11K09A-1 | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/c0008dfb1f2ba3a1d191533580ce1b4c) |
   | Redragon                | K557              | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/305bd83e0b820b9211597cebc16622b2) |
@@ -334,12 +375,13 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
 
   ## 108 Keys
 
-  | Brand  | Model     | MCU      | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless          | KLE                                                                                    |
-  | ------ | --------- | -------- | ----------- | ---- | ---- | --------- | ------- | ----------------- | -------------------------------------------------------------------------------------- |
-  | Akko   | 3108 (V1) | ?        | SN32F268    | No   |      | No        | No      | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/c7325282cd19c56510e92a0976cab70f) |
-  | Akko   | 3108 (V2) | ?        | SN32F268    | No   |      | No        | No      | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/e216de679e1506b9369ff093c1d24ef1) |
-  | Akko   | 5108B     | YC3121-E | No          | No   |      | RGB       | No      | BLE 5.0 & 2.4 GHz |                                                                                        |
-  | Akko   | 5108S     | VS11K28A | CH555       | No   |      | RGB       | No      | No                |                                                                                        |
-  | IQUNIX | SLIM108   | ?        | SN32F248B   | No   |      | RGB       | All     | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/69dd90c9425f07f0f88d1fbcca910824) |
-  |        |           |          |             |      |      |           |         |                   |                                                                                        |
+  | Brand    | Model       | MCU        | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless          | KLE                                                                                    |
+  | -------- | ----------- | ---------- | ----------- | ---- | ---- | --------- | ------- | ----------------- | -------------------------------------------------------------------------------------- |
+  | Akko     | 3108 (V1)   | ?          | SN32F268    | No   |      | No        | No      | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/c7325282cd19c56510e92a0976cab70f) |
+  | Akko     | 3108 (V2)   | ?          | SN32F268    | No   |      | No        | No      | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/e216de679e1506b9369ff093c1d24ef1) |
+  | Akko     | 5108B       | YC3121-E   | No          | No   |      | RGB       | No      | BLE 5.0 & 2.4 GHz |                                                                                        |
+  | Akko     | 5108S       | VS11K28A   | CH555       | No   |      | RGB       | No      | No                |                                                                                        |
+  | IQUNIX   | SLIM108     | ?          | SN32F248B   | No   |      | RGB       | All     | No                | [Here](http://www.keyboard-layout-editor.com/#/gists/69dd90c9425f07f0f88d1fbcca910824) |
+  | Keychron | K1-JIS (V4) | HFD2201KBA | SN32F248B   | No   |      | RGB       | All     | Bluetooth 5.1     |                                                                                        |
+  |          |             |            |             |      |      |           |         |                   |                                                                                        |
 </details>
