@@ -170,6 +170,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | DareU     | EK1280            | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | ?       | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/0baaf6fb54455db1c38ceccf737456ea) |
   | E-Dra     | EK3104            | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | All     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/1b08e9d6709f70179504e059fe2c6e70) |
   | E-Dra     | EK308             | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | ?       | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/b0c06905a60e508c811958b9d2e9c658) |
+  | Gamepower | OGRE              | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/368bafc4c3a3c8d2ba0bcea65929771e) |
   | HyperX    | Alloy Origin      | SN32F247B  | No          | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/fc66cef8981c1d68aae0d1e678d1b997) |
   | Redragon  | K512              | ?          | SN32F268    | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/6633a259a2e2f86aa0b6989fedf5335e) |
   | Redragon  | K556              | VS11K09A-1 | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/c0008dfb1f2ba3a1d191533580ce1b4c) |
@@ -193,10 +194,11 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
 
   ## 105 Keys
 
-  | Brand   | Model | MCU      | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless | KLE                                                                                    |
-  | ------- | ----- | -------- | ----------- | ---- | ---------------------------- | --------- | ------- | -------- | -------------------------------------------------------------------------------------- |
-  | aLLreLi | K643  | VS11K09A | SN32F248    | WIP  | [Here](https://git.io/JOST1) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/3377a0a5d2f48423e88bc487910509b5) |
-  |         |       |          |             |      |                              |           |         |          |                                                                                        |
+  | Brand   | Model  | MCU      | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless | KLE                                                                                    |
+  | ------- | ------ | -------- | ----------- | ---- | ---------------------------- | --------- | ------- | -------- | -------------------------------------------------------------------------------------- |
+  | aLLreLi | K643   | VS11K09A | SN32F248    | WIP  | [Here](https://git.io/JOST1) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/3377a0a5d2f48423e88bc487910509b5) |
+  | Trust   | GXT890 | VS11K09A | SN32F248    | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/8d8108d04d3b762015befa766fba6cd3) |
+  |         |        |          |             |      |                              |           |         |          |                                                                                        |
 
   ## 108 Keys
 
