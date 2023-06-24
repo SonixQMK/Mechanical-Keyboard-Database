@@ -1,7 +1,11 @@
 # A Collection Of Stock Firmwares
 
-## File Name Rules
+## Folder
 
-BRAND_MODEL_COLOR_BLUETOOTH_REV_VERSION_CHIP.ext
+Should be named branding
+
+## Filename
+
+BRAND_MODEL_LED-COLOR_BLUETOOTH_LAYOUT_REV_VERSION_CHIP.ext
 
 ext could be ‘bin’ or ‘hex’
