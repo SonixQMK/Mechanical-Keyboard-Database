@@ -87,6 +87,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Ajazz | AK33 (BJ33) | VS11K09A   | SN32F248    | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Ajazz | AK33 (SG33) | VS11K09A-1 | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Ajazz | AK33        | ?          | SN32F268    | No   |                              | White     | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+  | Ajazz | AK33        | VS11K18A-1 | SN8P2267CF  | No   |                              | White     | No      | No       |                                                                                        |
   |       |             |            |             |      |                              |           |         |          |                                                                                        |
 
   ## 84 Keys
