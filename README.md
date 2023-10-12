@@ -70,6 +70,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Akko         | 3068      | ?      | SN32F268    | No   |                              | White     | No      | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/63badde2007beb3e091436cc714cb58d) |
   | Akko         | 3068 v2   | ?      | SN32F248B   | No   |                              | RGB       | All     | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/c9060a33124daf5f2ddfc549bcdd6093) |
   | KeyDous      | NJ68      | M103CB | NUC123      | No   |                              | RGB       | All     | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/217036f674eb6cb34f9d9a87f2274fb4) |
+  | Perixx   | PERIBOARD-428 | VS11K09A-1 | SN32F248B | No |                              | RGB       | No      | No            |                                                                                        |
   | Royal Kludge | RK68(855) | ?      | SN32F268    | WIP  | [Here](https://git.io/JO3cO) | White     | All     | Bluetooth 5.1 | [Here](http://www.keyboard-layout-editor.com/#/gists/0721c17468666207f84fcab230130ec9) |
   |              |           |        |             |      |                              |           |         |               |                                                                                        |
 </details>
