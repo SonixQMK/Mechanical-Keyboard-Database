@@ -152,6 +152,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Akko           | 3098    | ?           | SN32F268    | No   |      | No        | No      | No                      | [Here](http://www.keyboard-layout-editor.com/#/gists/1980ac11b7d5217c90c5157f07a7c022) |
   | Akko           | 3098 v2 | ?           | ?           | No   |      | No        | All     | No                      | [Here](http://www.keyboard-layout-editor.com/#/gists/72b4d4da3389a1ddd66b6689e6787eba) |
   | Flesports/腹灵 | FL980   | NUC121SC2AE | No          | No   |      | RGB       | All     | Bluetooth 5.0 & 2.4 GHz | [Here](http://www.keyboard-layout-editor.com/#/gists/8d3fc231a29b0fc8240d4c4553998f25) |
+  | JingZao/京造   | WKB603  | HFD501KJD   | ?           | No   |      | White/RGB | All     | Bluetooth 5.1 & 2.4 GHz |                                                                                        |
   |                |         |             |             |      |      |           |         |                         |                                                                                        |
 
   ## 100 Keys
