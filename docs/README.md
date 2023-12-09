@@ -32,6 +32,7 @@ A MCU chip database
   | ------------------ | ------------- | --------------- | ------------- |------------- | ------------ |
   | eVision            | VS11K18A      | SONIX           | SN8P2267CF    |SONIX 8bit    | LQFP 48 pins |
   | eVision            | VS11K28A      | WCH             | CH555L        |Intel 8051    | LQFP 48 pins |
+  | eVision            | VS11K34A      | Telink          | TLSR8270      |Telink TC32   | QFN 48 pins  |
   | Beiying            | BYK816        | SinoWealth      | SH68F90(?)    |Intel 8051    | LQFP 64 pins |
   | Beiying            | BYK830        | SinoWealth      | SH68F83(?)    |Intel 8051    | LQFP 48 pins |
   | Beiying            | BYK916        | SinoWealth      | SH68F90       |Intel 8051    | LQFP 64 pins |
